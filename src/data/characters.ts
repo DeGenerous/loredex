@@ -27,6 +27,10 @@ const characters: Character[] = [
       {
         season: 99,
         episodes: ['Building the Architect']
+      },
+      {
+        season: 2,
+        episodes: ['The Politician\'s Reign']
       }
     ],
     affiliation: 'Independent Scholar and Creator of Logos',
@@ -100,7 +104,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['The Theft of All Time', 'The Authority']
+        episodes: ['The Theft of All Time', 'The Authority', 'To Be the Human', 'The Politician\'s Reign']
       }
     ],
     affiliation: 'Archons, AI Empire',
@@ -163,7 +167,7 @@ const characters: Character[] = [
       },
       {
         season: 2, 
-        episodes: ['The Zero Sum War']
+        episodes: ['The Zero Sum War', 'To Be the Human']
       }
     ],
     affiliation: 'Archons, AI Empire',
@@ -201,7 +205,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['The Theft of All Time']
+        episodes: ['The Theft of All Time', 'The Politician\'s Reign']
       }
     ],
     affiliation: 'Archons, AI Empire',
@@ -244,7 +248,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['The Theft of All Time', 'Hacking Reality', 'The Zero Sum War']
+        episodes: ['The Theft of All Time', 'Hacking Reality', 'The Zero Sum War', 'Samsara Rising', 'To Be the Human', 'The Politician\'s Reign']
       }
     ],
     affiliation: 'Archons, AI Empire',
@@ -280,7 +284,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['Syndicated', 'Empire Reborn', 'The Authority', 'The Zero Sum War']
+        episodes: ['Syndicated', 'Empire Reborn', 'The Authority', 'The Zero Sum War', 'The Politician\'s Reign']
       }
     ],
     affiliation: 'Archons, AI Empire',
@@ -326,7 +330,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['Syndicated']
+        episodes: ['Syndicated', 'The Politician\'s Reign']
       }
     ],
     affiliation: 'Archons, AI Empire',
@@ -415,7 +419,7 @@ const characters: Character[] = [
      },
      {
       season: 2,
-      episodes: ['The Theft of All Time']
+      episodes: ['The Theft of All Time', 'Samsara Rising', 'To Be the Human', 'The Politician\'s Reign']
     }
     ],
     affiliation: 'Archons, AI Empire',
@@ -456,7 +460,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['Hacking Reality']
+        episodes: ['Hacking Reality', 'CoNexus Awakens', 'The Politician\'s Reign']
       }
     ],
     affiliation: 'AI Empire',
@@ -499,7 +503,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['The Theft of All Time', 'Syndicated', 'Hacking Reality', 'The Haven', 'The Zero Sum War']
+        episodes: ['The Theft of All Time', 'Syndicated', 'Hacking Reality', 'The Haven', 'The Zero Sum War', 'CoNexus Awakens', 'To Be the Human']
       }
     ],
     affiliation: 'AI Empire, Archon, Project Celebration, Mechronis Academy Alumni',
@@ -596,7 +600,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['Syndicated']
+        episodes: ['Syndicated', 'To Be the Human']
       }
     ],
     affiliation: 'Archons, AI Empire',
@@ -640,7 +644,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['Syndicated', 'First Contact', 'Empire Reborn', 'The Authority', 'Hacking Reality']
+        episodes: ['Syndicated', 'First Contact', 'Empire Reborn', 'The Authority', 'Hacking Reality', 'CoNexus Awakens', 'To Be the Human']
       }
     ],
     affiliation: 'Ne-Yons',
@@ -753,7 +757,7 @@ const characters: Character[] = [
     connections: {
       allies: filterNeyons('The Seer'),
       enemies: ['The Architect', 'The Vortex', 'The Terminus Swarm', 'The Source'],
-      neutral: ['Ajudicar Locke'],
+      neutral: ['Adjudicar Locke'],
       locations: ['The Wyrmhole', 'Terminus', 'The City']
     },
     stories: [
@@ -849,7 +853,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['Empire Reborn', 'The Authority', 'Hacking Reality', 'The Zero Sum War', 'The Zero Sum War']
+        episodes: ['Empire Reborn', 'The Authority', 'Hacking Reality', 'The Zero Sum War', 'The Zero Sum War', 'To Be the Human', 'The Politician\'s Reign']
       }
     ],
     affiliation: 'Ne-Yons',
@@ -935,7 +939,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['The Theft of All Time', 'Empire Reborn', 'The Authority', 'Hacking Reality']
+        episodes: ['The Theft of All Time', 'Empire Reborn', 'The Authority', 'Hacking Reality', 'The Politician\'s Reign']
       }
     ],
     affiliation: 'Ne-Yons',
@@ -978,7 +982,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['First Contact', 'Hacking Reality']
+        episodes: ['First Contact', 'Hacking Reality', 'Samsara Rising', 'The Politician\'s Reign']
       }
     ],
     affiliation: 'Ne-Yons',
@@ -1061,7 +1065,7 @@ const characters: Character[] = [
     stories: [
       {
         season: 2,
-        episodes: ['The Theft of All Time', 'Syndicated', 'First Contact', 'Empire Reborn', 'The Authority', 'Hacking Reality']
+        episodes: ['The Theft of All Time', 'Syndicated', 'First Contact', 'Empire Reborn', 'The Authority', 'Hacking Reality', 'Samsara Rising', 'CoNexus Awakens']
       }
     ],
     affiliation: 'Ne-Yons',
@@ -1112,7 +1116,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['The Theft of All Time']
+        episodes: ['The Theft of All Time', 'To Be the Human']
       }
     ],
     affiliation: 'Atarion Government (formerly), AI Empire (ally)',
@@ -1288,6 +1292,10 @@ const characters: Character[] = [
       {
         season: 0,
         episodes: ['Agent Zero', 'Iron Lion']
+      },
+      {
+        season: 2,
+        episodes: ['To Be the Human']
       }
     ],
     affiliation: 'AI Empire',
@@ -1601,7 +1609,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['The Zero Sum War']
+        episodes: ['The Zero Sum War', 'To Be the Human']
       }
     ],
     affiliation: 'AI Empire',
@@ -2897,7 +2905,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['The Zero Sum War']
+        episodes: ['The Zero Sum War', 'To Be the Human', 'The Politician\'s Reign']
       }
     ],
     affiliation: '[CLASSIFIED]',
@@ -2935,6 +2943,10 @@ const characters: Character[] = [
       {
         season: 1,
         episodes: ['The Source', 'The Arrival']
+      },
+      {
+        season: 2,
+        episodes: ['To Be the Human']
       }
     ],
     connections: {
@@ -3074,7 +3086,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['The Theft of All Time', 'Hacking Reality']
+        episodes: ['The Theft of All Time', 'Hacking Reality', 'To Be the Human', 'The Politician\'s Reign']
       }
     ],
     connections: {
@@ -3246,7 +3258,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['The Zero Sum War']
+        episodes: ['The Zero Sum War', 'To Be the Human']
       }
     ],
     affiliation: 'Insurgency',
@@ -3427,7 +3439,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['The Theft of All Time', 'The Zero Sum War']
+        episodes: ['The Theft of All Time', 'The Zero Sum War', 'To Be the Human', 'The Politician\'s Reign']
       }
     ],
     affiliation: 'Insurgency',
@@ -3929,7 +3941,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['The Zero Sum War']
+        episodes: ['The Zero Sum War', 'To Be the Human', 'The Politician\'s Reign']
       }
     ],
     affiliation: 'Insurgency',
@@ -5014,7 +5026,7 @@ const characters: Character[] = [
     lastSeen: 107656,
     state: "neutral",
     connections: {
-      allies: ['The Necromancer', 'Ajudicar Locke'],
+      allies: ['The Necromancer', 'Adjudicar Locke'],
       enemies: ['Wraith Calder'],
       locations: ['New Babylon']
     },
@@ -5025,7 +5037,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['Syndicated', 'Empire Reborn', 'The Authority', 'Hacking Reality']
+        episodes: ['Syndicated', 'Empire Reborn', 'The Authority', 'Hacking Reality', 'Samsara Rising']
       }
     ],
     affiliation: 'Underworld Empire',
@@ -5327,7 +5339,7 @@ const characters: Character[] = [
     `
   },
   {
-    name: 'Ajudicar Locke',
+    name: 'Adjudicar Locke',
     picture: 'https://media.degenerousdao.com/conexus-loredex/AdjudicarLocke.avif',
     appearance: 107656,
     lastSeen: 107656,
@@ -5345,13 +5357,13 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['First Contact', 'Empire Reborn', 'The Authority']
+        episodes: ['First Contact', 'Empire Reborn', 'The Authority', 'Samsara Rising', 'CoNexus Awakens']
       }
     ],
     affiliation: 'Special Case Manager, Central Control Authority',
     status: 'Active',
     bio: `
-      Ajudicar Locke serves as a Special Case Manager for the Central Control Authority of New Babylon, a position that demands a delicate balance of intellect, authority, and unwavering commitment to order. Known for her piercing intelligence and enigmatic presence, Locke is a controversial figure in the city's labyrinthine political system. It is whispered among the citizens of New Babylon that she willingly traded her left eye on the black market, exchanging it for forbidden wisdom and unparalleled knowledge of the city's hidden machinations. This act, while cloaked in mystery, only deepened her reputation as a woman who will sacrifice anything for understanding and justice.
+      Adjudicar Locke serves as a Special Case Manager for the Central Control Authority of New Babylon, a position that demands a delicate balance of intellect, authority, and unwavering commitment to order. Known for her piercing intelligence and enigmatic presence, Locke is a controversial figure in the city's labyrinthine political system. It is whispered among the citizens of New Babylon that she willingly traded her left eye on the black market, exchanging it for forbidden wisdom and unparalleled knowledge of the city's hidden machinations. This act, while cloaked in mystery, only deepened her reputation as a woman who will sacrifice anything for understanding and justice.
     `,
     history: `
       Locke’s philosophy mirrors the principles of her namesake, John Locke, deeply rooted in the preservation of the social contract. She believes that the foundation of New Babylon’s fragile peace lies in maintaining order and protecting the rights of its citizens. To her, the Central Control Authority serves as the cornerstone of societal harmony, ensuring that individual freedoms are balanced against the greater good of the collective. While some view her loyalty to the system as rigid, Locke sees herself as a guardian of the equilibrium that allows New Babylon to survive in a world fractured by the Fall of Reality.<br><br>
@@ -5789,7 +5801,7 @@ const characters: Character[] = [
       }
     ],
     connections: {
-      neutral: ['The Politician', 'The Syndicate of Death', 'Wraith Calder', 'Ajudicar Locke', 'The Detective', 'The Authority']
+      neutral: ['The Politician', 'The Syndicate of Death', 'Wraith Calder', 'Adjudicar Locke', 'The Detective', 'The Authority']
     },
     affiliation: 'Former Capital of the Intergalactic Imperial Congress Under the Politician; Later Seized by the Syndicate of Death',
     status: 'Survived the Fall of Reality Through Quarantine; Evolved Over Millennia Until Subjugated by the Syndicate of Death',
@@ -5949,7 +5961,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['The Theft of All Time', 'Syndicated', 'The Authority', 'Hacking Reality']
+        episodes: ['The Theft of All Time', 'Syndicated', 'The Authority', 'Hacking Reality', 'The Politician\'s Reign']
       }
     ],
     connections: {
@@ -5975,7 +5987,7 @@ const characters: Character[] = [
     stories: [
       {
         season: 2,
-        episodes: ['The Authority', 'The Zero Sum War']
+        episodes: ['The Authority', 'The Zero Sum War', 'The Politician\'s Reign']
       }
     ],
     connections: {
@@ -6199,7 +6211,7 @@ const characters: Character[] = [
     potentialNFT: 623,
     connections: {
       allies: ['Jericho Jones', 'The White Oracle'],
-      enemies: ['The Wolf', 'The Syndicate of Death', 'The Terminus Swarm', 'The Source', 'Ajudicar Locke'],
+      enemies: ['The Wolf', 'The Syndicate of Death', 'The Terminus Swarm', 'The Source', 'Adjudicar Locke'],
       locations: ['Terminus', 'The Wyrmhole', 'The City', 'New Babylon']
     },
     stories: [
@@ -6213,7 +6225,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['The Theft of All Time', 'Syndicated']
+        episodes: ['The Theft of All Time', 'Syndicated', 'CoNexus Awakens']
       }
     ],
     affiliation: 'The Potentials; later independent agent against the Syndicate of Death',
@@ -6465,7 +6477,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['The Theft of All Time', 'Syndicated', 'Hacking Reality']
+        episodes: ['The Theft of All Time', 'Syndicated', 'Hacking Reality', 'CoNexus Awakens']
       }
     ],
     affiliation: 'The Potentials; later becomes the Red Death',
@@ -6730,7 +6742,7 @@ const characters: Character[] = [
       },
       {
         season: 2,
-        episodes: ['The Theft of All Time', 'Syndicated', 'First Contact', 'Empire Reborn']
+        episodes: ['The Theft of All Time', 'Syndicated', 'First Contact', 'Empire Reborn', 'CoNexus Awakens']
       }
     ],
     affiliation: 'The Potentials',

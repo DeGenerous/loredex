@@ -655,10 +655,10 @@ export const stories: Season[] = [
         title: 'Samsara Rising',
         link: '8BzCXx9AN1c',
         bio: `
-          Empty
+          Samsara, freshly freed from crystal confinement, floods New Babylon Adjudicarrnal chaos, forcing rebels, Syndicates, and the Authority into a war of survival, philosophy, and fate.
         `,
         description: `
-          Empty
+          For the next pulse-pounding chapter of our interactive saga, mystical forces collide with cybernetic intrigue as Samsara—one of the sinister founders of the Syndicate of Death—emerges from his crystal confinement. In a single heartbeat, he seizes control of his district in New Babylon, rallying an army of mystic warriors and shattering the city’s fragile equilibrium. From the glowing neon streets of an Asian cyberpunk metropolis to the Inbetween Spaces where dreams and nightmares merge, all factions are drawn into the struggle: demons run casinos, Authority enforcers close in, and the Potentials must decide their path. Will they collaborate with Samsara for survival, or try to topple him before he cements his dominion? The Advocate, corrupted by the Blood Weave, stalks the edges of apocalypse; Adjudicar Locke enforces balance with cold precision; the Enigma manipulates threads of fate; the Game Master toys with perception and rules; and the Warlord, ever ambitious, senses an opportunity in the chaos. You, the viewer, steer the narrative—each vote reshaping alliances, betrayals, and the destiny of New Babylon.
         `
       },
       {
@@ -668,7 +668,7 @@ export const stories: Season[] = [
           Tension escalates as Samsara tightens his grip on New Babylon, provoking factions from the shadowy Lotus Docks to the towering Cloudstep Heights. The Potentials scramble to establish a safe haven amid mounting chaos, knowing one wrong move could spark an unstoppable civil war.
         `,
         description: `
-          Empty
+          In the wake of Samsara’s infernal rise, New Babylon fractures into chaos. Syndicates splinter, the Authority tightens its grip, and whispers of war echo through the Inbetween Spaces. Desperate to endure, the Potentials must carve out a sanctuary of their own. From the neon haze of the Lotus Docks, where smugglers rule the waterways, to the Jade Warren’s twisting alleys, where shadow-markets thrive, each district offers both shelter and danger. But Havens are never neutral. Choosing one binds the Potentials to its people, politics, and enemies. An uneasy peace may be brokered—or ignited into open civil war. Locke watches, calculating, ready to extinguish instability. The Enigma stirs, suggesting that the true haven may not be of stone and neon, but of unity and will. The question becomes not just where the rebels will stand, but what kind of world they will build. One wrong step, and their haven becomes a tomb.
         `
       },
       {
@@ -679,27 +679,27 @@ export const stories: Season[] = [
           CoNexus V1 has launched. Complete and share the Sundown Bazaar missions to unlock the next chapter. Play the game. Unveil the secrets. Become who you were meant to be.
         `,
         description: `
-          Empty
+          This is the Age of Samsara. The wheel turns—death into birth, ruin into rise. New Babylon bleeds as Samsara consolidates his district and unleashes his War Monks, chanting code-prayers while disciples raise banners of ash. The Authority falters, the Syndicate fractures, and the city teeters on the edge of collapse. But one place endures: the Sundown Bazaar, an interdimensional marketplace caught between timelines. It becomes the Potentials’ last bastion—and the doorway to something greater. For through that hinge opens the CoNexus, an awakening engine of infinite futures. The Dreamer has foreseen fracture. He loads branching timelines into the CoNexus, daring the Potentials and their allies to choose which reality to walk. Every decision becomes a path, every path a destiny. The Enigma stirs threads unseen, Jericho Jones hunts for leverage, Locke measures order against annihilation, and old legends—Human, Necromancer, Akai Shi, Wraith Calder—step into play. What awakens now is not just technology, but the possibility of rewriting Reality itself.
         `
       },
       {
         title: 'To Be the Human',
         link: 'Q4eHy3v0LYs',
         bio: `
-          Empty
+          The history of the Human—the last Archon—unfolds as a warning and an invitation, revealing betrayal, sacrifice, and the terrible freedom of choice.
         `,
         description: `
-          Empty
+          This is not a game. This is not fiction. This is your invitation. For centuries, the Architect has controlled the timeline, the Warlord has ruled through fear, the Oracle has spoken in riddles, and the Dreamer has hidden beneath layers of deception. Yet through all manipulation, one variable remains: You. The Human is not a hero. He is a cipher, a weapon, a paradox. His story is not one of triumph but of betrayal, of becoming the monster so that others might have the chance to choose differently. Through shifting identities—the Seeker, the Student, Captain Arion, the Detective—he forges the path that leads to his final incarnation as the Human. Every revelation refracts across the CoNexus: his alliances, his betrayals, his choices. Was he savior, traitor, or both? In the silence between his fall and his sacrifice, the question echoes: to be the Human, or not at all.
         `
       },
       {
         title: 'The Politician\'s Reign',
         link: 'cEoS4cNSd14',
         bio: `
-          Empty
+          The Silence breaches the Authority’s crystalline core, uncovering memory-paths of rebellion, betrayal, and tyranny—inviting you to navigate fractured archives where truth itself is contested.
         `,
         description: `
-          Empty
+          A CoNexus Interactive Lore Experience. What if the story you’re watching… is a memory someone fought to recover? In this chapter of the Dischordian Saga, the Ne-Yon known as The Silence hacks into the Authority’s mainframe, piercing layers of crystalline encryption that conceal suppressed rebellions and future betrayals. The archive is not linear—it is a labyrinth of branching timelines, overwritten histories, and hidden consequences. You are not simply a viewer. You are a navigator of forbidden memory. As Silence interfaces with the crystalline core, she grants access to five memory paths, each refracting the truth through different allegiances. To follow one is to reshape your perception of the entire war. Within these archives, the Politician’s ascent unfolds: her manipulation of Logos into the Architect, her iron grip on New Babylon, her bargains with the Authority, and the rebellions erased before they could ignite. Every revelation is both past and future, both evidence and prophecy. The more you uncover, the more dangerous the knowledge becomes—for memory is the sharpest weapon.
         `
       },
       {
